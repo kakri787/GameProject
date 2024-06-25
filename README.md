@@ -1,6 +1,6 @@
 # Personal Game Project
 Coded in Lua alongside Love2D Framework. <br>
-A simple game where the player is a dinosaur and attempts to dodge enemies in the form of balls for as long as possible.
+* A simple game where the player is a dinosaur and attempts to dodge enemies in the form of balls for as long as possible.
 ## Learning Outcomes
 * Lua programming language
   * Learnt how to create different game states by using a table
